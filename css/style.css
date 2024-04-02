@@ -8499,7 +8499,8 @@ h1, h2, h3, h4, h5,
               width: 100%;
               z-index: 0;
               height: 50px;
-              margin-left: 0; }
+              margin-left: 0;
+              margin-top: 650px; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
                 opacity: .3; }
               .owl-carousel.home-slider .slider-item .slider-text .one-third:after {
@@ -8525,7 +8526,8 @@ h1, h2, h3, h4, h5,
               right: 0;
               bottom: 0;
               z-index: 1;
-              padding: 1em; } }
+              padding: 0em; 
+              margin-top: 0px;} }
           .owl-carousel.home-slider .slider-item .slider-text .one-forth .text {
             width: 100%; }
             @media (min-width: 992px) {
